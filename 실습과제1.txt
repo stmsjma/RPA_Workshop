@@ -1,0 +1,4 @@
+1. Open Browser Activiy Use Below URL
+2. https://docs.google.com/forms/d/e/1FAIpQLSea-TT7NZdhfYkbfF3svMihGwZ0Nu2WGzLFAsbaPjn77M3MnQ/viewform?vc=0&c=0&w=1
+3. Use dataTable for excel element extraction
+4. Use For Each Row to extract row in the dataTable
